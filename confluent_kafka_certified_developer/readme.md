@@ -1,5 +1,4 @@
 Lectures and materials to pass `Databricks: Spark Associate Developer` exam.
-Books
 ​​
 ##### Books
 1. [Kafka: The Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf)
