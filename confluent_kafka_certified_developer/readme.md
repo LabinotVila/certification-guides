@@ -24,6 +24,11 @@ Books
 
 ##### Experience
 The summary provides helpful information, but it could benefit from some revisions to make it clearer and more concise. Here's a revised version:
+
 The Kafka certification exam consists of 60 multiple choice questions, which you must complete within 90 minutes. The questions cover a range of topics, including Kafka basics, Kafka Connect, Kafka Streams, ksqlDB, Schema Registry, Zookeeper, and Confluent Platform. Some questions may have multiple correct answers, as indicated in the question.
+
 While the exam focuses mainly on the above-mentioned topics, there are only a few questions related to testing and monitoring (around 4 questions iirc). To prepare for the exam, start by reading books and using official resources, as well as taking up-to-date courses and practice exams.
+
 Avoid outdated study materials (such as Stephane Mareek's courses and practice exams on Udemy), because they may teach outdated concepts and lead to confusion. The Kafka certification exam differs from practice exams, and it's crucial to have a strong foundation of knowledge before taking the real exam (Out of the practice exam questions, I had encountered in the past only around 10 of them).
+
+I think you can attend the exam safely if you are confidently passing all the practice tests with a score of at least 90%.
