@@ -2,18 +2,15 @@ Lectures and materials to pass `Databricks: Spark Associate Developer` exam.
 Books
 ​​
 ##### Books
-​​
 1. [Kafka: The Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf)
 ​​2. [Kafka: Mastering Kafka Streams and ksqlDB](https://pdisa.mampu.gov.my/wp-content/uploads/2021/08/20210422-EB-Mastering_Kafka_Streams_and_ksqlDB-ebook.pdf)
 
 ##### Lectures
-
 1. [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/)
 2. [Apache Kafka — Real-time Stream Processing (Master Class)](https://www.udemy.com/course/kafka-streams-real-time-stream-processing-master-class/)
 3. [Confluent 101 Series on Youtube](https://www.youtube.com/@Confluent/search?query=101)
 
 ##### Overviews
-
 1. [Confluent Official Training Courses](https://training.confluent.io/content)
 2. [Confluent Apache Kafka](https://docs.confluent.io/kafka/design/delivery-semantics.html#consumer-receipt)
 3. [Confluent Apache Kafka Platform](https://docs.confluent.io/platform/current/overview.html)
@@ -21,7 +18,6 @@ Books
 5. [Konduktor Kafkademy](https://www.conduktor.io/kafka/)
 
 ##### Practice Exams
-
 1. [Confluent Official Practice Exam](https://assets.confluent.io/m/1eb934ef619a0ccc/original/20200331-Developer_Certification_Sample_Questions.pdf?_ga=2.201807058.255063205.1674733796-1845231519.1673348099)
 2. [Practice Exams | Confluent Certified Apache Kafka Developer](https://www.udemy.com/course/confluent-certified-apache-kafka-developer-practice-exams/)
 3. [A Cloud Guru: CCDAK Practice Exam (free trial 7 days)]
