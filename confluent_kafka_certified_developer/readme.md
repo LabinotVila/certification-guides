@@ -3,7 +3,7 @@ Books
 ​​
 ##### Books
 1. [Kafka: The Definitive Guide](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf)
-​​2. [Kafka: Mastering Kafka Streams and ksqlDB](https://pdisa.mampu.gov.my/wp-content/uploads/2021/08/20210422-EB-Mastering_Kafka_Streams_and_ksqlDB-ebook.pdf)
+2. [Kafka: Mastering Kafka Streams and ksqlDB](https://pdisa.mampu.gov.my/wp-content/uploads/2021/08/20210422-EB-Mastering_Kafka_Streams_and_ksqlDB-ebook.pdf)
 
 ##### Lectures
 1. [Apache Kafka for absolute beginners](https://www.udemy.com/course/apache-kafka-for-beginners/)
