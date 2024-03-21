@@ -20,7 +20,7 @@ Books
 ##### Practice Exams
 1. [Confluent Official Practice Exam](https://assets.confluent.io/m/1eb934ef619a0ccc/original/20200331-Developer_Certification_Sample_Questions.pdf?_ga=2.201807058.255063205.1674733796-1845231519.1673348099)
 2. [Practice Exams | Confluent Certified Apache Kafka Developer](https://www.udemy.com/course/confluent-certified-apache-kafka-developer-practice-exams/)
-3. [A Cloud Guru: CCDAK Practice Exam (free trial 7 days)]
+3. A Cloud Guru: CCDAK Practice Exam (free trial 7 days)
 
 ##### Experience
 The summary provides helpful information, but it could benefit from some revisions to make it clearer and more concise. Here's a revised version:
