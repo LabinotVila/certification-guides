@@ -1,4 +1,6 @@
-Lectures and materials to pass `Linux: Certified Kubernetes Application Developer` exam.
+### Linux: Certified Kubernetes Application Developer
+
+Lectures and materials to pass `Linux: Certified Kubernetes Application Developer` exam. Read the [notes](NOTES.md) here.
 
 ##### Books
 1. [Kubernetes: Up And Running](https://lira.epac.to/DOCS-TECH/Sistemi%20Operativi/Kubernetes%20Up%20and%20Running%20-%202nd%20Edition.pdf)

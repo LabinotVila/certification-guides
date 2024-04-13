@@ -1,7 +1,4 @@
-HashiCorp Certified: Terraform Associate (003)
-
-<small>
-
+### HashiCorp Certified: Terraform Associate (003)
 
 Lectures and materials to pass `HashiCorp Certified: Terraform Associate (003)` exam. Read the [notes](NOTES.md) here.
 
@@ -17,6 +14,3 @@ Lectures and materials to pass `HashiCorp Certified: Terraform Associate (003)` 
 
 ##### Other Content
 1. [Terraform: Up And Running](https://digtvbg.com/files/LINUX/Brikman%20Y.%20Terraform.%20Up%20and%20Running.%20Writing...as%20Code%203ed%202022.pdf)
-
-
-</small>
